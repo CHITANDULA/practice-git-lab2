@@ -1,3 +1,1 @@
-" COLLABORATORS " 
-" 1. CHILUFYA CHULU " 
-" 2. LAWRENCE CHITANDULA " 
+" Team lead: Lawrence " 
